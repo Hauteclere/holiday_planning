@@ -1,6 +1,8 @@
 <h1>Europe Trip</h1>
 This document records the plan for Rachel and my trip to Europe <3
 
+https://www.skyscanner.com.au/transport/d/bne/2025-09-06/lju/dbv/2025-09-26/bne/config/10041-2509061515--31940,-31734-2-13589-2509070830%7C10932-2509260910--31734,-31940-2-10041-2509280845?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&duration=6420&infants=0&ref=home
+
 ---
 
 <h2>Table of Contents</h2>
