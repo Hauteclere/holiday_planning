@@ -16,7 +16,13 @@ https://www.skyscanner.com.au/transport/d/bne/2025-09-06/lju/dbv/2025-09-26/bne/
 
 ## Dates
 
-September?
+| Sunday    | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+|           |           |           |           |           |           | 6th Sept  |
+| 7th Sept  | 8th Sept  | 9th Sept  | 10th Sept | 11th Sept | 12th Sept | 13th Sept |
+| 14th Sept | 15th Sept | 16th Sept | 17th Sept | 18th Sept | 19th Sept | 20th Sept |
+| 21st Sept | 22nd Sept | 23rd Sept | 24th Sept | 25th Sept | 26th Sept | 27th Sept |
+| 28th Sept | 29th Sept |           |           |           |           |           |
 
 ---
 
