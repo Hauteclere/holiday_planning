@@ -27,6 +27,9 @@ This document records the plan for Rachel and my trip to Europe <3
 ## Locations
 
 ### Ljubljana
+
+https://www.airbnb.com/l/JwP0glqK
+
 #### Center District:
 ##### Old Town:
 Known for its charming cobblestone streets, riverside cafes, and beautiful architecture, particularly the work of Jože Plečnik. It's a great place to explore on foot, with numerous bridges, small squares, and monuments. 
