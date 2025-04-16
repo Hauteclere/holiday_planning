@@ -1,8 +1,6 @@
 <h1>Europe Trip</h1>
 This document records the plan for Rachel and my trip to Europe <3
 
-https://www.skyscanner.com.au/transport/d/bne/2025-09-06/lju/dbv/2025-09-26/bne/config/10041-2509061515--31940,-31734-2-13589-2509070830%7C10932-2509260910--31734,-31940-2-10041-2509280845?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&duration=6420&infants=0&ref=home
-
 ---
 
 <h2>Table of Contents</h2>
@@ -18,11 +16,39 @@ https://www.skyscanner.com.au/transport/d/bne/2025-09-06/lju/dbv/2025-09-26/bne/
 
 | Sunday    | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday  |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-|           |           |           |           |           |           | 6th Sept  |
-| 7th Sept  | 8th Sept  | 9th Sept  | 10th Sept | 11th Sept | 12th Sept | 13th Sept |
+|           |           |           |           |           |           | 6th Sept<br>Depart Brisbane 3.15pm |
+| 7th Sept <br>Arrive Ljubjana 8.30am | 8th Sept  | 9th Sept  | 10th Sept | 11th Sept | 12th Sept | 13th Sept |
 | 14th Sept | 15th Sept | 16th Sept | 17th Sept | 18th Sept | 19th Sept | 20th Sept |
 | 21st Sept | 22nd Sept | 23rd Sept | 24th Sept | 25th Sept | 26th Sept | 27th Sept |
 | 28th Sept | 29th Sept |           |           |           |           |           |
+
+---
+
+## Locations
+
+### Ljubljana
+#### Center District:
+##### Old Town:
+Known for its charming cobblestone streets, riverside cafes, and beautiful architecture, particularly the work of Jože Plečnik. It's a great place to explore on foot, with numerous bridges, small squares, and monuments. 
+##### Prešeren Square:
+The main square in the city center, bustling with activity and home to many cafes and restaurants. It's a good spot for experiencing the city's vibrant atmosphere. 
+##### Metelkova:
+A funky, alternative district known for its street art, graffiti, and alternative nightlife. 
+#### Outside the Center:
+##### Trnovo:
+A district south of the historic center, offering a quieter and more residential experience. 
+##### Koseze:
+Located near the large Tivoli Park, Koseze provides a green environment and a more relaxed vibe. 
+##### Tivoli Park:
+Ljubljana's largest and most beautiful park, offering a wide variety of activities and green spaces. 
+#### Other Notable Areas:
+#####Slovenska cesta:
+Ljubljana's main street, once a through-traffic corridor, has been transformed into a pedestrian-friendly area with cafes, restaurants, and cycling lanes. 
+###### Central Market:
+Consisting of an open-air market, a covered market, and food shops along the river Ljubljanica. 
+###### Ljubljanica River:
+The river runs through the city center, offering scenic views and opportunities for boat rides. 
+
 
 ---
 
