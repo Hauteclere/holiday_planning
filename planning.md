@@ -42,11 +42,11 @@ Located near the large Tivoli Park, Koseze provides a green environment and a mo
 ##### Tivoli Park:
 Ljubljana's largest and most beautiful park, offering a wide variety of activities and green spaces. 
 #### Other Notable Areas:
-#####Slovenska cesta:
+##### Slovenska cesta:
 Ljubljana's main street, once a through-traffic corridor, has been transformed into a pedestrian-friendly area with cafes, restaurants, and cycling lanes. 
-###### Central Market:
+##### Central Market:
 Consisting of an open-air market, a covered market, and food shops along the river Ljubljanica. 
-###### Ljubljanica River:
+##### Ljubljanica River:
 The river runs through the city center, offering scenic views and opportunities for boat rides. 
 
 
