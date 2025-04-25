@@ -11,8 +11,6 @@ This document records the plan for Rachel and my trip to Europe <3
 - [Bled](#bled)
   - [Vintgar Gorge](#vintgar-gorge)
   - [Mala Osojnica Viewpoint Hike](#mala-osojnica-viewpoint-hike)
-- [Logar Valley](#logar-valley)
-  - [Hotel Plesnik](#hotel-plesnik)
 - [Julian Alps (Lake Bohinj/Pokljuka)](#julian-alps-lake-bohinjpokljuka)
   - [Mount Triglav (Rudno polje - Vodnikov Dom - Dom Planika)](#mount-triglav-rudno-polje---vodnikov-dom---dom-planika)
   - ["Best of the Julian Alps Hut-to-Hut"](#best-of-the-julian-alps-hut-to-hut)
@@ -72,17 +70,6 @@ Good view!
 - Difficulty: Moderate
 
 ![](https://img2.oastatic.com/img2/71356128/834x417r/variant.jpg)
-
-## Logar Valley
-[Some chill hikes here if we want, and a nice hotel.](https://www.bontraveler.com/a-complete-guide-to-visiting-the-logar-valley-in-slovenia/)
-
-![](https://www.bontraveler.com/wp-content/uploads/2019/11/DSC09932-1024x683.jpg)
-
-### Hotel Plesnik
-
-[Linked here.](https://www.plesnik.si/en)
-
-![](https://www.bontraveler.com/wp-content/uploads/2019/11/DSC09937-600x900.jpg)
 
 ## Julian Alps (Lake Bohinj/Pokljuka)
 > [!IMPORTANT]  
