@@ -15,6 +15,10 @@ This document records the plan for Rachel and my trip to Europe <3
     - [Mount Triglav (Rudno polje - Vodnikov Dom - Dom Planika)](#mount-triglav-rudno-polje---vodnikov-dom---dom-planika)
     - ["Best of the Julian Alps Hut-to-Hut"](#best-of-the-julian-alps-hut-to-hut)
     - [Mount Vogel](#mount-vogel)
+  - [Piran](#piran)
+    - [Attractions](#attractions)
+    - [Food](#food)
+    - [Accomodation](#accomodation)
 
 
 ---
@@ -24,8 +28,8 @@ This document records the plan for Rachel and my trip to Europe <3
 | Sunday                                                                     | Monday      | Tuesday                                                    | Wednesday                                    | Thursday                                               | Friday                                                       | Saturday                                                   |
 | -------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
 |                                                                            |             |                                                            |                                              |                                                        |                                                              | *6th Sept*<br><ul><li>**Depart Brisbane 3.15pm**</li></ul> |
-| *7th Sept* <br><ul><li>**Arrive [Ljubljana](#ljubljana) 8.30am**</li></ul> | *8th Sept*  | *9th Sept*<br><ul><li>**Drive to [Bled](#bled)**</li></ul> | *10th Sept*<br><ul><li>Day in Bled</li></ul> | *11th Sept* <br><ul><li>**Drive to [Julian Alps](#julian-alps-lake-bohinjpokljuka)**</li></ul>                                 | *12th Sept*                                                  | *13th Sept*                                                |
-| *14th Sept*                                                                | *15th Sept* | *16th Sept*<br><ul><li>**Drive To Piran**</ul></li>        | *17th Sept*                                  | *18th Sept*<br><ul><li>**Drive To Plitvice**</li></ul> | *19th Sept*                                                  | *20th Sept*<br><ul><li>**Drive To Paklenica**</li></ul>    |
+| *7th Sept* <br><ul><li>**Arrive [Ljubljana](#ljubljana) 8.30am**</li></ul> | *8th Sept*  | *9th Sept*<br><ul><li>**Drive to [Bled](#bled)**</li></ul> | *10th Sept* | *11th Sept* <br><ul><li>**Drive to [Julian Alps](#julian-alps-lake-bohinjpokljuka)**</li></ul>                                 | *12th Sept*                                                  | *13th Sept*                                                |
+| *14th Sept*                                                                | *15th Sept* | *16th Sept*<br><ul><li>**Drive To [Piran](#piran)**</ul></li>        | *17th Sept*                                  | *18th Sept*<br><ul><li>**Drive To Plitvice**</li></ul> | *19th Sept*                                                  | *20th Sept*<br><ul><li>**Drive To Paklenica**</li></ul>    |
 | *21st Sept*                                                                | *22nd Sept* | *23rd Sept*<br><ul><li>**Drive To Dubrovnik**</li></ul>    | *24th Sept*                                  | *25th Sept*                                            | *26th Sept*<br><ul><li>**Depart Dubrovnik 9.10am**</li></ul> | *27th Sept*                                                |
 | *28th Sept* <br><ul><li>**Arrive Brisbane 8.45am**</li></ul>               | *29th Sept* |                                                            |                                              |                                                        |                                                              |                                                            |
 
@@ -153,3 +157,32 @@ This is marketed as a guided hike but I reckon we could do it solo if we were up
 2. Cable car to Vogel
 3. Hike to Summit
 4. Return!
+
+### Piran
+Piran is a resort town on Slovenia’s Adriatic coast, known for its long pier and Venetian architecture. It used to be part of the Republic of Venice back when that was a thing, and in fact Italian was the dominant language until the mid-19th century.
+
+#### Attractions
+| Attraction                                               | Description                                                                                                                                                   | Image                                                                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Obzidje Piran (The Walls of Piran)                       | The historical defensive walls of the city.                                                                                                                   | ![](https://www.portoroz.si/en/imagelib/full/default/images/Piran/Piransko_obzidje.jpg)                       |
+| Piranese salt                                            | One of the main reasons the city exists. We should get some as a souvenir.                                                                                    | Imagine a small cellar of salt.                                                                               |
+| Beautiful and/or medieval architecture                   | It's nice to be around.                                                                                                                                       | ![](https://www.zgodovinska-mesta.si/wp-content/uploads/2022/03/CF027644-1600x1200-1-1030x639-1-1024x635.jpg) |
+| St George's Cathefral Belltower                          | Climb it for an incredible view of the city                                                                                                                   | ![](https://bohemiantraveler.com/wp-content/uploads/2020/06/DSC6463-768x512.jpg)                              |
+| Lepa Vida ("Thalasso spa" at the Piran Saltpans)         | [The unique outdoor spa centre Thalasso Spa Lepa Vida operates in the northern part of the Sečovlje Salina Nature Park.](https://www.thalasso-lepavida.si/en) | ![](https://www.thalasso-lepavida.si/en/image/medium/324)                                                     |
+| Piran Walking Tour with Local Wine and Food Tasting      | [Does what it says on the can.](https://www.viator.com/tours/Piran/Piran-Walking-Tour-with-Local-Wine-and-Food-Tasting/d28586-39474P1)                        | Yum. Although; we will probably be able to do our own walking tour since the town is quite small.                                                                                                         |
+| Istria - Truffles: Hunting & Cooking & Tasting, Slovenia | [A truffle hunting experience!](https://www.viator.com/tours/Koper/TRUFFLES-Hunting-and-Cooking-and-Tasting-in-Istria/d4170-70422P2)                          | Fun!                                                                                                          |
+
+#### Food
+- **Fritolin Pri Cantini:** This place became popular recently, offering a cheaper alternative to other high-end seafood restaurants in Piran. It is a very small restaurant, looks more like a street food stall, located on the scenic 1st or May Square, and offers a chance to enjoy the local atmosphere of this quiet square while indulging in some delicious local seafood.
+- **Pirat Piran:** Pirat is one of the restaurants that has been popular in Piran for many years. I remember coming here as a child! Probably the best seafood restaurant in town.
+- **Restaurants at Prešernovo nabrežje Street:** There are many restaurants lined up by the sea down the Prešernovo nabrežje street. This is a great walking area by the sea, connecting Tartini Square with the Punta lighthouse. The food here is decent and the atmosphere is relaxing.
+- **Sarajevo 84:** If you are tired of seafood this is a place to go! Traditional Bosnian cuisine offers mostly meat dishes. This one is one of the local’s favourites!
+
+You will find many more dining options in the lively and busy town of Portorož, just next to Piran. Here are some of the recommendations:
+- **Pizzeria Porto Konoba:** Best pizza on the Slovenian coast. They also have a choice of seafood and meat dishes available. 
+- **Restaurant Staro sidro:** Great fine dining restaurant choice near Piran. Great views and amazing cuisine.
+- **COP:** If you enjoy trying new things, the dining experience at the COP is for you! Awarded with 1 Michelin Star
+
+#### Accomodation
+- [Hotel Zala?](https://hotelzala.com/en/home/#booking)
+- [Art Hotel Tartini?](https://us2.cloudbeds.com/en/reservation/t6o4rt/?currency=eur)
