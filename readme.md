@@ -45,8 +45,6 @@ This document records the plan for Rachel and my trip to Europe <3
 - [Directions from airport to city](https://maps.app.goo.gl/PmSSmMnkRnQ92sxp9) (sets us down right near airbnb)
 - [AirBnB](https://www.airbnb.com.au/trips/v1/6ce742f2-0c37-3580-bbab-332560bab234/ro/RESERVATION2_CHECKIN/HM3AJQZSD4)
 
-https://www.airbnb.com/l/JwP0glqK
-
 | Location          | Description                                                                                                                                                                                                                 |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Old Town          | Known for its charming cobblestone streets, riverside cafes, and beautiful architecture, particularly the work of Jože Plečnik. It's a great place to explore on foot, with numerous bridges, small squares, and monuments. |
