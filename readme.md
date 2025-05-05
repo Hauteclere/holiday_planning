@@ -19,25 +19,31 @@ This document records the plan for Rachel and my trip to Europe <3
     - [Attractions](#attractions)
     - [Food](#food)
     - [Accomodation](#accomodation)
+  - [Plitvice Lakes](#plitvice-lakes)
+    - [Lower Lakes](#lower-lakes)
+    - [Upper Lakes](#upper-lakes)
 
 
 ---
 
 ## Dates
 
-| Sunday                                                                     | Monday      | Tuesday                                                    | Wednesday                                    | Thursday                                               | Friday                                                       | Saturday                                                   |
-| -------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
-|                                                                            |             |                                                            |                                              |                                                        |                                                              | *6th Sept*<br><ul><li>**Depart Brisbane 3.15pm**</li></ul> |
-| *7th Sept* <br><ul><li>**Arrive [Ljubljana](#ljubljana) 8.30am**</li></ul> | *8th Sept*  | *9th Sept*<br><ul><li>**Drive to [Bled](#bled)**</li></ul> | *10th Sept* | *11th Sept* <br><ul><li>**Drive to [Julian Alps](#julian-alps-lake-bohinjpokljuka)**</li></ul>                                 | *12th Sept*                                                  | *13th Sept*                                                |
-| *14th Sept*                                                                | *15th Sept* | *16th Sept*<br><ul><li>**Drive To [Piran](#piran)**</ul></li>        | *17th Sept*                                  | *18th Sept*<br><ul><li>**Drive To Plitvice**</li></ul> | *19th Sept*                                                  | *20th Sept*<br><ul><li>**Drive To Paklenica**</li></ul>    |
-| *21st Sept*                                                                | *22nd Sept* | *23rd Sept*<br><ul><li>**Drive To Dubrovnik**</li></ul>    | *24th Sept*                                  | *25th Sept*                                            | *26th Sept*<br><ul><li>**Depart Dubrovnik 9.10am**</li></ul> | *27th Sept*                                                |
-| *28th Sept* <br><ul><li>**Arrive Brisbane 8.45am**</li></ul>               | *29th Sept* |                                                            |                                              |                                                        |                                                              |                                                            |
+| Sunday                                                                     | Monday      | Tuesday                                                       | Wednesday   | Thursday                                                                                       | Friday                                                           | Saturday                                                   |
+| -------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------- |
+|                                                                            |             |                                                               |             |                                                                                                |                                                                  | *6th Sept*<br><ul><li>**Depart Brisbane 3.15pm**</li></ul> |
+| *7th Sept* <br><ul><li>**Arrive [Ljubljana](#ljubljana) 8.30am**</li></ul> | *8th Sept*  | *9th Sept*<br><ul><li>**Drive to [Bled](#bled)**</li></ul>    | *10th Sept* | *11th Sept* <br><ul><li>**Drive to [Julian Alps](#julian-alps-lake-bohinjpokljuka)**</li></ul> | *12th Sept*                                                      | *13th Sept*                                                |
+| *14th Sept*                                                                | *15th Sept* | *16th Sept*<br><ul><li>**Drive To [Piran](#piran)**</ul></li> | *17th Sept* | *18th Sept*<br><ul><li>organise picnic lunches</li><li>**Drive To [Plitvice Lakes](#plitvice-lakes)**</li><li>Hike the [Lower Lakes](#lower-lakes)</li></ul>                                         | *19th Sept* <ul><li>Hike the [Upper Lakes](#upper-lakes)</li><li>Rent a rowboat</li></ul> | *20th Sept*<br><ul><li>**Drive To Paklenica**</li></ul>    |
+| *21st Sept*                                                                | *22nd Sept* | *23rd Sept*<br><ul><li>**Drive To Dubrovnik**</li></ul>       | *24th Sept* | *25th Sept*                                                                                    | *26th Sept*<br><ul><li>**Depart Dubrovnik 9.10am**</li></ul>     | *27th Sept*                                                |
+| *28th Sept* <br><ul><li>**Arrive Brisbane 8.45am**</li></ul>               | *29th Sept* |                                                               |             |                                                                                                |                                                                  |                                                            |
 
 ---
 
 ## Locations
 
 ### Ljubljana
+
+- [Directions from airport to city](https://maps.app.goo.gl/PmSSmMnkRnQ92sxp9) (sets us down right near airbnb)
+- [AirBnB](https://www.airbnb.com.au/trips/v1/6ce742f2-0c37-3580-bbab-332560bab234/ro/RESERVATION2_CHECKIN/HM3AJQZSD4)
 
 https://www.airbnb.com/l/JwP0glqK
 
@@ -186,3 +192,32 @@ You will find many more dining options in the lively and busy town of Portorož,
 #### Accomodation
 - [Hotel Zala?](https://hotelzala.com/en/home/#booking)
 - [Art Hotel Tartini?](https://us2.cloudbeds.com/en/reservation/t6o4rt/?currency=eur)
+
+### Plitvice Lakes
+- Some good advice [here](https://pashaishome.com/maximize-your-plitvice-lakes-national-park-visit/) and also some good advice [here](https://www.sharingthewander.com/plitvice-lakes-croatia/).  
+- [Buy tickets in advance here](https://np-plitvicka-jezera.hr/en/ (shuttle buses and boats are included in the ticket price; a rowboat needs to be hired separately)
+
+Looks like the way to go is to stay at a hotel or guest house near the lakes and then walk in each day :)
+
+#### Lower Lakes
+
+![](https://www.sharingthewander.com/wp-content/uploads/2022/08/PlitviceCliffWalk.jpg)
+These are accessible via "Entrace 1"
+- Do the circuit around the lower lakes
+- Do the "cliff walk" with a bunch of lookouts
+- There's apparently one more lookout to be had if you continue further:
+  > *Eventually, you’ll come to the stairs leading down to Veliki Slap (which will probably be closed). Keep going on the trail to find Overlook #5. This looks to be the end of the trail- but there’s one more!*
+  >
+  > *Follow the dirt trail to the road, and continue along the paved road, over the bridge, turning right onto another dirt trail just past the restored mill. Follow this to find the last overlook which looks back on Overlook #5.*
+  >
+  > *You can now either take the stairs down to the water (if they are open), or follow the trail back the way you came. We took the trail back to the boat launch and enjoyed a leisurely boat ride across the lake to end our day at Entrance #2.*
+
+#### Upper Lakes
+
+![](https://www.sharingthewander.com/wp-content/uploads/2022/08/Last-Viewpoint.jpg)
+
+These are accessible via "Entrance 2":
+  > *Start at Entrance 2 and take a boat from P1 to P2. It’s a very short ride across the water.*
+
+- Rent a rowboat:
+  > *You can rent a rowboat from near the boat launch at P1. It costs 13€ per hour.*
