@@ -58,6 +58,9 @@ This document records the plan for Rachel and my trip to Europe <3
 | Ljubljanica River | The river runs through the city center, offering scenic views and opportunities for boat rides.                                                                                                                             |
 
 ### Bled
+
+[Accommodation](https://www.booking.com/Share-bpvDud) Code: "double me, down six, up half alistair, upstart"
+
 #### Vintgar Gorge
 Short hike
 - Trailhead: Vintgar Gorge P1 Car Park
